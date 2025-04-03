@@ -1,4 +1,6 @@
 # Tech Lab: Fullstack Web Application Project
+<img width="1707" alt="Screenshot 2025-04-02 at 8 08 02 PM" src="https://github.com/user-attachments/assets/c8a9dcb1-53d6-4060-bcd2-b52560078423" />
+
 
 In this tech lab, students will gain hands-on experience in building a fullstack web application using React, Flask, Redis, and Docker. This project is designed to provide a comprehensive understanding of modern web development practices and technologies.
 
